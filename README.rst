@@ -4,7 +4,6 @@ python学习笔记
 
 当前目标
 ----------
-- 项目页面_
+- 启动QQ脚本_
 
-.. _项目页面: https://github.com/jump1003/python_study
-
+.. _启动QQ脚本: https://github.com/jump1003/python_study

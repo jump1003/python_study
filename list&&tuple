@@ -1,0 +1,13 @@
+# list序列
+-------------
+- 由0开始排序；
+- list_name=['n1','n2'...,'nn']建立序列
+- list_name.append在序列末尾添加元素；
+- list_name.insert(num,'')在序列指定位置添加元素；
+- list_name.pop(num/None)删除序列指定位置/末尾元素;
+- 序列元素可以是不同类型，也可添加序列元素。
+- list_name[n]='元素';--可指定位置修改。
+
+# tuple元组
+------------
+- list_name=('n1','n2'...,'nn')建立元组

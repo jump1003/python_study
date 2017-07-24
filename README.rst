@@ -4,6 +4,7 @@ python学习笔记
 
 当前目标
 ----------
-- star_qq_
+- 项目页面_
 
-.. _start_qq:https://github.com/jump1003/python_study
+.. _项目页面: https://github.com/jump1003/python_study
+
